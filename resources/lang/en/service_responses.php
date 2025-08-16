@@ -1,0 +1,10 @@
+<?php
+return [
+    'success' => 'The operation was completed successfully',
+    'not_found' => 'Not Found',
+    'bad_request' => 'Bad Request',
+    'unauthorized' => 'Un Authorized',
+    'server_error' => 'Server Error',
+    'unexpected_error' => 'Unexpected Error',
+
+];
